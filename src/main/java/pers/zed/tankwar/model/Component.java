@@ -1,4 +1,4 @@
-package pers.zed.model;
+package pers.zed.tankwar.model;
 
 import lombok.Data;
 

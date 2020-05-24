@@ -1,6 +1,6 @@
-package pers.zed.constants;
+package pers.zed.tankwar.constants;
 
-import pers.zed.model.Wall;
+import pers.zed.tankwar.model.Wall;
 
 import java.util.ArrayList;
 import java.util.HashMap;

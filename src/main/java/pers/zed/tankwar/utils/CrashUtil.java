@@ -1,4 +1,4 @@
-package pers.zed.utils;
+package pers.zed.tankwar.utils;
 
 /**
  * @ClassName: CrashUtil

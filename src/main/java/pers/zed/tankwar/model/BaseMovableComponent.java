@@ -1,8 +1,8 @@
-package pers.zed.model;
+package pers.zed.tankwar.model;
 
 import lombok.Data;
-import pers.zed.constants.TankWarConstant;
-import pers.zed.enums.DirectionEnum;
+import pers.zed.tankwar.constants.TankWarConstant;
+import pers.zed.tankwar.enums.DirectionEnum;
 
 /**
  * @ClassName: BaseMovableComponent

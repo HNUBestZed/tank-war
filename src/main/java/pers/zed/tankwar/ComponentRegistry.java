@@ -1,8 +1,8 @@
-package pers.zed;
+package pers.zed.tankwar;
 
-import pers.zed.model.Bullet;
-import pers.zed.model.Tank;
-import pers.zed.model.Wall;
+import pers.zed.tankwar.model.Bullet;
+import pers.zed.tankwar.model.Tank;
+import pers.zed.tankwar.model.Wall;
 
 import java.util.ArrayList;
 import java.util.HashMap;

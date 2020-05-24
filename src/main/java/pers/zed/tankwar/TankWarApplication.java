@@ -1,4 +1,4 @@
-package pers.zed;
+package pers.zed.tankwar;
 
 /**
  * @ClassName: TankWarApplication

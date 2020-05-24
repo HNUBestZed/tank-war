@@ -1,9 +1,9 @@
-package pers.zed.model;
+package pers.zed.tankwar.model;
 
 import lombok.Data;
-import pers.zed.ComponentRegistry;
-import pers.zed.enums.DirectionEnum;
-import pers.zed.thread.BulletMoveThread;
+import pers.zed.tankwar.ComponentRegistry;
+import pers.zed.tankwar.enums.DirectionEnum;
+import pers.zed.tankwar.thread.BulletMoveThread;
 
 import java.util.UUID;
 

@@ -1,4 +1,4 @@
-package pers.zed.thread;
+package pers.zed.tankwar.thread;
 
 /**
  * @ClassName: EnemyGenerateThread

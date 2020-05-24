@@ -1,9 +1,9 @@
-package pers.zed.thread;
+package pers.zed.tankwar.thread;
 
-import pers.zed.ComponentRegistry;
-import pers.zed.constants.TankWarConstant;
-import pers.zed.model.Bullet;
-import pers.zed.model.Tank;
+import pers.zed.tankwar.ComponentRegistry;
+import pers.zed.tankwar.constants.TankWarConstant;
+import pers.zed.tankwar.model.Bullet;
+import pers.zed.tankwar.model.Tank;
 
 import java.util.List;
 import java.util.stream.Collectors;

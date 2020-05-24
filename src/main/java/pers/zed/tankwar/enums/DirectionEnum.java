@@ -1,4 +1,4 @@
-package pers.zed.enums;
+package pers.zed.tankwar.enums;
 
 public enum DirectionEnum {
     LEFT,
